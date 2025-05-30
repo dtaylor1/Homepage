@@ -1,0 +1,112 @@
+[
+ {
+  "timeless": "true",
+  "question": "Who replaced Mick Mars on guitar for Motley Crue in 2022?",
+  "options": [
+   "C.C. DeVille",
+   "Carlos Cavazo",
+   "John 5",
+   "Warren DeMartini"
+  ],
+  "correct": "John 5"
+ },
+ {
+  "timeless": "true",
+  "question": "Who played guitar on Dio's first album, 'Holy Diver'?",
+  "options": [
+   "Adrian Vandenberg",
+   "John Sykes",
+   "Jake E. Lee",
+   "Vivian Campbell"
+  ],
+  "correct": "Vivian Campbell"
+ },
+ {
+  "timeless": "true",
+  "question": "Which of the following is NOT a song by Slayer?",
+  "options": [
+   "Blood Red",
+   "Death Spiral",
+   "Hell Awaits",
+   "Skeletons of Society"
+  ],
+  "correct": "Death Spiral"
+ },
+ {
+  "timeless": "true",
+  "question": "What is the country of origin for the band Temple Balls?",
+  "options": [
+   "Denmark",
+   "Finaland",
+   "Norway",
+   "Sweden"
+  ],
+  "correct": "Sweden"
+ },
+ {
+  "timeless": "true",
+  "question": "What is the name of W.A.S.P.'s debut album?",
+  "options": [
+   "Inside The Electric Circus",
+   "The Headless Children",
+   "The Last Command",
+   "W.A.S.P."
+  ],
+  "correct": "W.A.S.P."
+ },
+ {
+  "timeless": "true",
+  "question": "What year did Metallica release the album 'Kill 'Em All'?",
+  "options": [
+   "1982",
+   "1983",
+   "1984",
+   "1985"
+  ],
+  "correct": "1983"
+ },
+ {
+  "timeless": "false",
+  "question": "Which band has Rudy Sarzo NOT been a part of?",
+  "options": [
+   "Dio",
+   "Dokken",
+   "Quiet Riot",
+   "Whitesnake"
+  ],
+  "correct": "Dokken"
+ },
+ {
+  "timeless": "true",
+  "question": "Who played guitar on Ozzy Osbourne's live album 'Speak of the Devil'?",
+  "options": [
+   "Brad Gillis",
+   "George Lynch",
+   "Jake E. Lee"
+   "Randy Rhoades",
+  ],
+  "correct": "Brad Gillis"
+ },
+ {
+  "timeless": "false",
+  "question": "What is the name of Saxon's vocalist?",
+  "options": [
+   "Biff Byford",
+   "Gifford Flaxen",
+   "Robbie Rocke",
+   "Tally Urburson"
+  ],
+  "correct": "Biff Byford"
+ },
+ {
+  "timeless": "true",
+  "question": "Who was the original drummer for Bulletboys?",
+  "options": [
+   "Bobby Blotzer",
+   "Jimmy D'Anda"
+   "Mick Brown",
+   "Pauli Henderson",
+  ],
+  "correct": "Jimmy D'Anda"
+ }
+]
