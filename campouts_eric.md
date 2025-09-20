@@ -1,3 +1,4 @@
+2025 - PCT Tucquala Meadows to Pete Lake - Daniel
 2024 - Olympics South Coast
 2023 - PCT Pete Lake to Snoqualmie Pass - Chikamin
 2022 - Olympics North Coast
@@ -17,8 +18,8 @@
 2008 - Olympics Traverse - Quinault to Staircase
 2007 - Mt. Jefferson Wilderness
 2006 - Enchantments Basin
-2005 - 
+2005 - Mt. Hood Timberline Trail
 2004 - PCT Chinook Pass to White Pass
-2003 - Mt. Hood Timberline Trail
-2002 - Mt. Adams Round The Mountain
+2003 - Mt. Adams Round The Mountain
+2002 - American Ridge
 2001 - Goat Rocks - Jordan Basin
