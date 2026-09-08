@@ -1,3 +1,4 @@
+2026 - Skyline Ridge
 2025 - PCT Tucquala Meadows to Pete Lake - Daniel
 2024 - Olympics South Coast
 2023 - PCT Pete Lake to Snoqualmie Pass - Chikamin
